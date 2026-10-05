@@ -13,8 +13,8 @@
  },
  "title": "Something Unexpected in Los Angeles",
  "intro": "Three picks for something unexpected in Los Angeles, from videos local creators filmed.",
- "draft": true,
- "publishedAt": null,
+ "draft": false,
+ "publishedAt": "2026-10-05T23:21:31Z",
  "joinSms": "sms:+16282299040?&body=MOVE",
  "picks": [
   {

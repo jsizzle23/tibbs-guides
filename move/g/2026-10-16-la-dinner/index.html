@@ -8,7 +8,7 @@
 <meta property="og:description" content="Three picks for a great dinner in Los Angeles, with videos from local creators.">
 <meta property="og:image" content="https://videos-b.atmosfy.io/7c870635-2bf8-4853-899e-c0f16d7a26ed/thumbnail.jpg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="robots" content="noindex">
+
 <style>
   :root { color-scheme: light dark; --bg:#fafafa; --fg:#15161a; --muted:#6b6b75; --card:#ffffff; --chip:#ececf0; }
   @media (prefers-color-scheme: dark) { :root { --bg:#0e0f13; --fg:#f4f4f6; --muted:#9a9aa5; --card:#17181d; --chip:#22232b; } }
@@ -41,7 +41,7 @@
   footer a { color:inherit; }
 </style></head>
 <body><main>
-  <div class="draft">DRAFT: not reviewed</div>
+  
   <div class="brand"><b>The Move</b> <span>by Atmosfy</span></div>
   <h1>A Great Dinner in Los Angeles</h1>
   <div class="sub">This weekend · Los Angeles · picked from videos local creators filmed</div>
@@ -106,7 +106,7 @@
   posthog.init("phc_vnyiRZ9kCEZGdhREpFX86komQwucyRQci5NUBsC1Lh7", {api_host: "https://us.i.posthog.com", person_profiles: "identified_only", autocapture: false, capture_pageview: false});
   const q = new URLSearchParams(location.search);
   const attr = { program: "the_move", guide_id: "2026-10-16-la-dinner", edition: "2026-10-16", city: "Los Angeles",
-                 option: "dinner", u: q.get("u"), ref: q.get("ref"), draft: true };
+                 option: "dinner", u: q.get("u"), ref: q.get("ref"), draft: false };
   posthog.register(attr);
   function track(evt, props) { posthog.capture("move_" + evt, props || {}); }
   track("guide_open", { via: attr.u ? "sms" : attr.ref ? "share" : "direct" });

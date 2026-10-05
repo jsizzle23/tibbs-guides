@@ -1,22 +1,22 @@
 {
- "edition": "2026-10-09",
+ "edition": "2026-10-16",
  "city": "Los Angeles",
  "theme": "This weekend",
  "options": {
   "1": {
    "label": "A great dinner",
    "slug": "dinner",
-   "url": "https://jsizzle23.github.io/tibbs-guides/move/g/2026-10-09-la-dinner/"
+   "url": "https://jsizzle23.github.io/tibbs-guides/move/g/2026-10-16-la-dinner/"
   },
   "2": {
    "label": "A night out",
    "slug": "night-out",
-   "url": "https://jsizzle23.github.io/tibbs-guides/move/g/2026-10-09-la-night-out/"
+   "url": "https://jsizzle23.github.io/tibbs-guides/move/g/2026-10-16-la-night-out/"
   },
   "3": {
    "label": "Something unexpected",
    "slug": "unexpected",
-   "url": "https://jsizzle23.github.io/tibbs-guides/move/g/2026-10-09-la-unexpected/"
+   "url": "https://jsizzle23.github.io/tibbs-guides/move/g/2026-10-16-la-unexpected/"
   }
  },
  "aliases": {
