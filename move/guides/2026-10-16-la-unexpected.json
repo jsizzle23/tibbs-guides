@@ -14,45 +14,45 @@
  "title": "Something Unexpected in Los Angeles",
  "intro": "Three picks for something unexpected in Los Angeles, from videos local creators filmed.",
  "draft": false,
- "publishedAt": "2026-10-05T23:21:31Z",
+ "publishedAt": "2026-10-05T23:50:28Z",
  "joinSms": "sms:+16282299040?&body=MOVE",
  "picks": [
   {
    "rank": 1,
-   "fileId": 840060,
-   "venueId": 32504484,
-   "venue": "Lucas Museum Of Narrative Art",
-   "address": "3800 S Vermont Ave",
-   "lat": 34.01676401,
-   "lon": -118.2912888,
-   "why": "I like the Lucas Museum of Narrative Art for its futuristic architecture and mix of pop art, movie memorabilia, costumes, and recognizable props.",
+   "fileId": 650268,
+   "venueId": 1159886,
+   "venue": "Room Number 13 at The Escape Hotel",
+   "address": "6633 Hollywood Blvd",
+   "lat": 34.101741,
+   "lon": -118.334538,
+   "why": "Room Number 13 turns a lounge night into gothic theater, mixing live performers with skull displays, severed-hand decor, cocktails, and food.",
    "creator": {
-    "handle": "DiiiiAMOND",
-    "userId": 10258
+    "handle": "i_therefore_conclude",
+    "userId": 2144
    },
-   "videoUrl": "https://videos-b.atmosfy.io/3f86c533-fce4-4465-9aea-fdf529c26ba8/play_720p.mp4",
-   "posterUrl": "https://videos-b.atmosfy.io/3f86c533-fce4-4465-9aea-fdf529c26ba8/thumbnail.jpg",
-   "listingUrl": "https://atmosfy.io/listing/840060/California/Los%20Angeles/Lucas%20Museum%20Of%20Narrative%20Art",
-   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Lucas+Museum+Of+Narrative+Art+3800+S+Vermont+Ave",
-   "uploaded": "2026-09-11"
+   "videoUrl": "https://videos-b.atmosfy.io/ed6c6802-4ff0-4de4-a7b2-ebb630dec970/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/ed6c6802-4ff0-4de4-a7b2-ebb630dec970/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/650268/California/Los%20Angeles/Room%20Number%2013%20at%20The%20Escape%20Hotel",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Room+Number+13+at+The+Escape+Hotel+6633+Hollywood+Blvd",
+   "uploaded": "2025-10-18"
   },
   {
    "rank": 2,
    "fileId": 823036,
    "venueId": 3839543,
-   "venue": "Cosm 1252 District Dr, Inglewood, CA 90305",
+   "venue": "Cosm",
    "address": "1252",
    "lat": 33.9472432,
    "lon": -118.3405422,
-   "why": "Cosm turns a screening into a room-scale experience, with imagery extending across a futuristic dome while the audience settles in at tables.",
+   "why": "Cosm offers an immersive dome theater where scenes surround the seated audience, with themed drinks and snacks served right at their seats.",
    "creator": {
     "handle": "fabilinda17",
     "userId": 732076
    },
    "videoUrl": "https://videos-b.atmosfy.io/64bda374-f5f9-41e6-b9a5-60707ea9a5f8/play_720p.mp4",
    "posterUrl": "https://videos-b.atmosfy.io/64bda374-f5f9-41e6-b9a5-60707ea9a5f8/thumbnail.jpg",
-   "listingUrl": "https://atmosfy.io/listing/823036/California/Los%20Angeles/Cosm%201252%20District%20Dr%2C%20Inglewood%2C%20CA%2090305",
-   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Cosm+1252+District+Dr%2C+Inglewood%2C+CA+90305+1252",
+   "listingUrl": "https://atmosfy.io/listing/823036/California/Los%20Angeles/Cosm",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Cosm+1252",
    "uploaded": "2026-06-05"
   },
   {
@@ -63,7 +63,7 @@
    "address": "221 S Grand Ave",
    "lat": 34.054412,
    "lon": -118.250539,
-   "why": "The Broad stands apart through Yayoi Kusama's mirrored installation, where a grid of LED lights shifts through green, red, amber, and blue.",
+   "why": "At The Broad, I'd head for the infinity mirror room, where shifting green, red, amber, and cyan light creates a kaleidoscopic art experience.",
    "creator": {
     "handle": "madison.munchies",
     "userId": 1355

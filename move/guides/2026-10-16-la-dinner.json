@@ -14,7 +14,7 @@
  "title": "A Great Dinner in Los Angeles",
  "intro": "Three picks for a great dinner in Los Angeles, from videos local creators filmed.",
  "draft": false,
- "publishedAt": "2026-10-05T23:21:31Z",
+ "publishedAt": "2026-10-05T23:50:28Z",
  "joinSms": "sms:+16282299040?&body=MOVE",
  "picks": [
   {
@@ -25,7 +25,7 @@
    "address": "4919 1/2 West Adams",
    "lat": 34.032677,
    "lon": -118.347531,
-   "why": "I'd pick Cento Raw Bar for its textured dining bar, where cocktails, fresh crudo, a seafood tower, and pasta make dinner feel varied.",
+   "why": "I'd pick Cento Raw Bar for its cave-like dining room, lively bar, and a dinner that can move from crudo and seafood towers to pasta.",
    "creator": {
     "handle": "adventureswithchass",
     "userId": 51962
@@ -38,41 +38,41 @@
   },
   {
    "rank": 2,
-   "fileId": 843975,
-   "venueId": 145534668,
-   "venue": "Heritage",
-   "address": "2030 E Seventh St",
-   "lat": 33.77517995,
-   "lon": -118.16680281,
-   "why": "Heritage suits a composed dinner, with finely plated small bites and seared sliced duck breast in sauce set against a wooden table.",
+   "fileId": 818062,
+   "venueId": 329957,
+   "venue": "Genghis Cohen",
+   "address": "740 N Fairfax Ave",
+   "lat": 34.08493853,
+   "lon": -118.36131463,
+   "why": "Genghis Cohen suits a celebratory dinner, with red paper lanterns overhead, colorful cocktails on the table, and a vibrant dining room.",
    "creator": {
-    "handle": "chowdough",
-    "userId": 6971
+    "handle": "vialadova",
+    "userId": 493952
    },
-   "videoUrl": "https://videos-b.atmosfy.io/40088a39-cf81-4688-97d0-cc1180b787dd/play_720p.mp4",
-   "posterUrl": "https://videos-b.atmosfy.io/40088a39-cf81-4688-97d0-cc1180b787dd/thumbnail.jpg",
-   "listingUrl": "https://atmosfy.io/listing/843975/California/Los%20Angeles/Heritage",
-   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Heritage+2030+E+Seventh+St",
-   "uploaded": "2026-09-19"
+   "videoUrl": "https://videos-b.atmosfy.io/db4ae270-95d5-43dd-9411-e79958f37d31/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/db4ae270-95d5-43dd-9411-e79958f37d31/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/818062/California/Los%20Angeles/Genghis%20Cohen",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Genghis+Cohen+740+N+Fairfax+Ave",
+   "uploaded": "2026-07-28"
   },
   {
    "rank": 3,
-   "fileId": 800801,
-   "venueId": 100176,
-   "venue": "Majordomo",
-   "address": "1725 Naud St",
-   "lat": 34.06916557,
-   "lon": -118.22614241,
-   "why": "I'd choose Majordomo with friends for the table-side hot pot, where broth transforms crispy mushroom rice beside fish and sliced meat.",
+   "fileId": 800467,
+   "venueId": 32766832,
+   "venue": "Little Skewer",
+   "address": "",
+   "lat": 34.132126,
+   "lon": -118.01859,
+   "why": "Little Skewer is my cozy choice for friends, pairing a rustic dining room with spicy cucumber salad and garlic vermicelli scallops.",
    "creator": {
-    "handle": "i_therefore_conclude",
-    "userId": 2144
+    "handle": "Gmoy88",
+    "userId": 254261
    },
-   "videoUrl": "https://videos-b.atmosfy.io/95ec2f99-f05e-4491-a7e4-8751eb6b0634/play_720p.mp4",
-   "posterUrl": "https://videos-b.atmosfy.io/95ec2f99-f05e-4491-a7e4-8751eb6b0634/thumbnail.jpg",
-   "listingUrl": "https://atmosfy.io/listing/800801/California/Los%20Angeles/Majordomo",
-   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Majordomo+1725+Naud+St",
-   "uploaded": "2026-06-27"
+   "videoUrl": "https://videos-b.atmosfy.io/e1f7939b-4291-49a8-a830-8fff7f4901db/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/e1f7939b-4291-49a8-a830-8fff7f4901db/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/800467/California/Los%20Angeles/Little%20Skewer",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Little+Skewer+",
+   "uploaded": "2026-06-10"
   }
  ]
 }

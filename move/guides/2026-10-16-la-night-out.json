@@ -14,7 +14,7 @@
  "title": "A Night Out in Los Angeles",
  "intro": "Three picks for a night out in Los Angeles, from videos local creators filmed.",
  "draft": false,
- "publishedAt": "2026-10-05T23:21:31Z",
+ "publishedAt": "2026-10-05T23:50:28Z",
  "joinSms": "sms:+16282299040?&body=MOVE",
  "picks": [
   {
@@ -25,7 +25,7 @@
    "address": "549 S Anaheim Blvd",
    "lat": 33.829315,
    "lon": -117.912175,
-   "why": "Broken Spirits works for a moody night over cocktails and food, with candlelit stairs and a decorated interior giving the outing a theatrical edge.",
+   "why": "Broken Spirits makes a night out feel theatrical, with candle-lined stairs, specialty cocktails, themed decor, and a secret bookcase room.",
    "creator": {
     "handle": "ValleyGerl",
     "userId": 80994
@@ -38,13 +38,32 @@
   },
   {
    "rank": 2,
+   "fileId": 838567,
+   "venueId": 243291,
+   "venue": "Hollywood Palladium",
+   "address": "6215 W Sunset Blvd",
+   "lat": 34.09859895,
+   "lon": -118.32432857,
+   "why": "I'd choose the Hollywood Palladium for a high-energy concert night, where flashing stage lights and a packed, dancing crowd drive the mood.",
+   "creator": {
+    "handle": "fuvkmarcos",
+    "userId": 1011640
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/79a26fe7-f035-4114-a2cf-b54a8843113f/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/79a26fe7-f035-4114-a2cf-b54a8843113f/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/838567/California/Los%20Angeles/Hollywood%20Palladium",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Hollywood+Palladium+6215+W+Sunset+Blvd",
+   "uploaded": "2026-08-21"
+  },
+  {
+   "rank": 3,
    "fileId": 815425,
    "venueId": 3483454,
    "venue": "Sam First Bar",
    "address": "6171 W Century Blvd",
    "lat": 33.94583819,
    "lon": -118.39353752,
-   "why": "I'd go to Sam First Bar when the plan is live jazz, as the sleek bar and close seating keep the vocalist, band, and audience in one intimate room.",
+   "why": "Sam First Bar is the quieter move: a dim cocktail lounge where an intimate seated audience can focus on a live jazz ensemble.",
    "creator": {
     "handle": "plateswithpatrice",
     "userId": 65263
@@ -54,25 +73,6 @@
    "listingUrl": "https://atmosfy.io/listing/815425/California/Los%20Angeles/Sam%20First%20Bar",
    "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Sam+First+Bar+6171+W+Century+Blvd",
    "uploaded": "2026-07-10"
-  },
-  {
-   "rank": 3,
-   "fileId": 804072,
-   "venueId": 62891636,
-   "venue": "Stages Bar",
-   "address": "604 E Dyer Rd",
-   "lat": 33.70837719,
-   "lon": -117.85954326,
-   "why": "Stages Bar fits an active group night, with partner swing dancing, neon light, and a crowded floor that puts movement at the center.",
-   "creator": {
-    "handle": "bayla.travels",
-    "userId": 312735
-   },
-   "videoUrl": "https://videos-b.atmosfy.io/9dc77690-40d2-4bad-8909-feb9b9f6fd6b/play_720p.mp4",
-   "posterUrl": "https://videos-b.atmosfy.io/9dc77690-40d2-4bad-8909-feb9b9f6fd6b/thumbnail.jpg",
-   "listingUrl": "https://atmosfy.io/listing/804072/California/Los%20Angeles/Stages%20Bar",
-   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Stages+Bar+604+E+Dyer+Rd",
-   "uploaded": "2026-06-01"
   }
  ]
 }
