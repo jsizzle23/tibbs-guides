@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-09-nyc-dinner",
+ "edition": "2026-10-09",
+ "city": "New York",
+ "citySlug": "new-york",
+ "cityShort": "NYC",
+ "theme": "This weekend",
+ "option": {
+  "n": 1,
+  "label": "A great dinner",
+  "slug": "dinner"
+ },
+ "title": "A Great Dinner: New York",
+ "intro": "Three picks for a great dinner in New York, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 707396,
+   "venueId": 1221506,
+   "venue": "Family Meal at Blue Hill",
+   "address": "75 Washington Pl",
+   "lat": 40.73207254,
+   "lon": -73.99965298,
+   "why": "I'd pick Family Meal at Blue Hill for a candlelit table, shared dishes, and fresh flowers that suit an intimate dinner with company.",
+   "creator": {
+    "handle": "nomandmore",
+    "userId": 29227
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/fdfd3d79-057a-4d1d-83f1-3c8dd3be8564/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/fdfd3d79-057a-4d1d-83f1-3c8dd3be8564/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/707396/New%20York/New%20York/Family%20Meal%20at%20Blue%20Hill",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Family+Meal+at+Blue+Hill+75+Washington+Pl",
+   "uploaded": "2026-01-25"
+  },
+  {
+   "rank": 2,
+   "fileId": 605371,
+   "venueId": 404180,
+   "venue": "Oiji Mi",
+   "address": "17 W 19th St",
+   "lat": 40.739667,
+   "lon": -73.992383,
+   "why": "I'd choose Oiji Mi when craft cocktails, colorful appetizers, and caviar dishes are the right backdrop for a polished dinner.",
+   "creator": {
+    "handle": "ashellysuh",
+    "userId": 2398
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/4662770f-52c1-4f36-b301-4296c329900b/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/4662770f-52c1-4f36-b301-4296c329900b/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/605371/New%20York/New%20York/Oiji%20Mi",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Oiji+Mi+17+W+19th+St",
+   "uploaded": "2025-06-20"
+  },
+  {
+   "rank": 3,
+   "fileId": 664472,
+   "venueId": 2297353,
+   "venue": "Le Pavillon",
+   "address": "1 Vanderbilt Ave",
+   "lat": 40.752692,
+   "lon": -73.978412,
+   "why": "I'd book Le Pavillon for white-tablecloth dining, artful seafood, and red wine sauce poured tableside for a more formal evening.",
+   "creator": {
+    "handle": "thestacetaste",
+    "userId": 2777
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/758dea63-fed4-4766-b66c-4330dc9f45ef/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/758dea63-fed4-4766-b66c-4330dc9f45ef/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/664472/New%20York/New%20York/Le%20Pavillon",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Le+Pavillon+1+Vanderbilt+Ave",
+   "uploaded": "2025-11-14"
+  }
+ ]
+}

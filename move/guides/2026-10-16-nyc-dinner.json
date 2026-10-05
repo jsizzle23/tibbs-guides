@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-16-nyc-dinner",
+ "edition": "2026-10-16",
+ "city": "New York",
+ "citySlug": "new-york",
+ "cityShort": "NYC",
+ "theme": "This weekend",
+ "option": {
+  "n": 1,
+  "label": "A great dinner",
+  "slug": "dinner"
+ },
+ "title": "A Great Dinner in New York",
+ "intro": "Three picks for a great dinner in New York, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 848488,
+   "venueId": 132234314,
+   "venue": "SSAW",
+   "address": "330 S 3rd St",
+   "lat": 40.70923984,
+   "lon": -73.95411036,
+   "why": "I'd pick SSAW for a candlelit wooden counter where delicately plated Japanese tasting courses arrive as the chef works in the background.",
+   "creator": {
+    "handle": "dejenereats",
+    "userId": 2400
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/a9a10321-c808-41fd-8503-323e41377db2/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/a9a10321-c808-41fd-8503-323e41377db2/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/848488/New%20York/New%20York/SSAW",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=SSAW+330+S+3rd+St",
+   "uploaded": "2026-09-28"
+  },
+  {
+   "rank": 2,
+   "fileId": 840306,
+   "venueId": 127231,
+   "venue": "Carbone",
+   "address": "181 Thompson St",
+   "lat": 40.72790327,
+   "lon": -74.00013636,
+   "why": "Carbone combines a classic bar area with a table of Italian dishes, including spicy rigatoni, tortellini, and meatballs in tomato sauce.",
+   "creator": {
+    "handle": "i_therefore_conclude",
+    "userId": 2144
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/58e7e454-60f5-4d1b-8b1d-da3556998799/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/58e7e454-60f5-4d1b-8b1d-da3556998799/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/840306/New%20York/New%20York/Carbone",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Carbone+181+Thompson+St",
+   "uploaded": "2026-09-11"
+  },
+  {
+   "rank": 3,
+   "fileId": 852353,
+   "venueId": 111745,
+   "venue": "Giovanni's",
+   "address": "579 Grand Concourse",
+   "lat": 40.8194431,
+   "lon": -73.9272205,
+   "why": "Giovanni's suits a hearty dinner built around a large surf-and-turf board with lobster, shrimp, lamb chops, steak, mashed potatoes, and mac and cheese.",
+   "creator": {
+    "handle": "brisko2",
+    "userId": 962723
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/e37897a6-e658-4ca7-8b15-6bfbe40533a1/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/e37897a6-e658-4ca7-8b15-6bfbe40533a1/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/852353/New%20York/New%20York/Giovanni%27s",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Giovanni%27s+579+Grand+Concourse&query_place_id=ChIJZdK7p9H1wokRXtG1oueAShI",
+   "uploaded": "2026-09-27"
+  }
+ ]
+}

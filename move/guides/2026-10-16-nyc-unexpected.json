@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-16-nyc-unexpected",
+ "edition": "2026-10-16",
+ "city": "New York",
+ "citySlug": "new-york",
+ "cityShort": "NYC",
+ "theme": "This weekend",
+ "option": {
+  "n": 3,
+  "label": "Something unexpected",
+  "slug": "unexpected"
+ },
+ "title": "Something Unexpected in New York",
+ "intro": "Three picks for something unexpected in New York, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 831623,
+   "venueId": 140548370,
+   "venue": "Arte Museum",
+   "address": "61 Chelsea Piers",
+   "lat": 40.747295,
+   "lon": -74.00892,
+   "why": "Arte Museum turns a museum visit into a walk through a mirrored infinity room, with hanging geometric paper lantern lights shifting through different colors.",
+   "creator": {
+    "handle": "amendez1144",
+    "userId": 1009554
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/fd3c9bde-9706-42df-985c-bbe55d45110f/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/fd3c9bde-9706-42df-985c-bbe55d45110f/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/831623/New%20York/New%20York/Arte%20Museum",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Arte+Museum+61+Chelsea+Piers",
+   "uploaded": "2026-08-01"
+  },
+  {
+   "rank": 2,
+   "fileId": 834969,
+   "venueId": 89331777,
+   "venue": "Studio 16A",
+   "address": "520 8th Ave",
+   "lat": 40.753207,
+   "lon": -73.991969,
+   "why": "Studio 16A puts you close to the action in a studio event space, with flexing and street dance surrounded by an enthusiastic crowd.",
+   "creator": {
+    "handle": "PreeCee",
+    "userId": 1010589
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/7b916927-932e-41e0-b5c7-be1d9770e095/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/7b916927-932e-41e0-b5c7-be1d9770e095/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/834969/New%20York/New%20York/Studio%2016A",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Studio+16A+520+8th+Ave",
+   "uploaded": "2026-08-29"
+  },
+  {
+   "rank": 3,
+   "fileId": 718341,
+   "venueId": 122794,
+   "venue": "The Museum of Modern Art",
+   "address": "11 W 53rd St",
+   "lat": 40.76148371,
+   "lon": -73.97726847,
+   "why": "At The Museum of Modern Art, an interactive digital projection covers the wall in blooming pink roses and reflects across visitors' clothes.",
+   "creator": {
+    "handle": "poopaball",
+    "userId": 938270
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/242f6bb7-072f-43c5-91c0-2fdfd001b0d3/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/242f6bb7-072f-43c5-91c0-2fdfd001b0d3/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/718341/New%20York/New%20York/The%20Museum%20of%20Modern%20Art",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=The+Museum+of+Modern+Art+11+W+53rd+St",
+   "uploaded": "2026-02-09"
+  }
+ ]
+}

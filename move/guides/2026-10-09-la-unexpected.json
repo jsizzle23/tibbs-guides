@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-09-la-unexpected",
+ "edition": "2026-10-09",
+ "city": "Los Angeles",
+ "citySlug": "los-angeles",
+ "cityShort": "LA",
+ "theme": "This weekend",
+ "option": {
+  "n": 3,
+  "label": "Something unexpected",
+  "slug": "unexpected"
+ },
+ "title": "Something Unexpected in Los Angeles",
+ "intro": "Three picks for something unexpected in Los Angeles, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 740053,
+   "venueId": 205012,
+   "venue": "The Broad",
+   "address": "221 S Grand Ave",
+   "lat": 34.054412,
+   "lon": -118.250539,
+   "why": "The Broad offers a more immersive art stop, with a mirrored infinity room where LED lights shift through green, red, amber, and blue.",
+   "creator": {
+    "handle": "madison.munchies",
+    "userId": 1355
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/bde5febb-5879-4331-a753-f3a0528f337b/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/bde5febb-5879-4331-a753-f3a0528f337b/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/740053/California/Los%20Angeles/The%20Broad",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=The+Broad+221+S+Grand+Ave",
+   "uploaded": "2026-03-06"
+  },
+  {
+   "rank": 2,
+   "fileId": 650268,
+   "venueId": 1159886,
+   "venue": "Room Number 13 at The Escape Hotel",
+   "address": "6633 Hollywood Blvd",
+   "lat": 34.101741,
+   "lon": -118.334538,
+   "why": "Room Number 13 pairs creepy horror decor with live stage singers, plated appetizers, and cocktails for a theatrical evening.",
+   "creator": {
+    "handle": "i_therefore_conclude",
+    "userId": 2144
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/ed6c6802-4ff0-4de4-a7b2-ebb630dec970/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/ed6c6802-4ff0-4de4-a7b2-ebb630dec970/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/650268/California/Los%20Angeles/Room%20Number%2013%20at%20The%20Escape%20Hotel",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Room+Number+13+at+The+Escape+Hotel+6633+Hollywood+Blvd",
+   "uploaded": "2025-10-18"
+  },
+  {
+   "rank": 3,
+   "fileId": 701961,
+   "venueId": 140551984,
+   "venue": "The Obscure",
+   "address": "1348 Palmetto St",
+   "lat": 34.04016383,
+   "lon": -118.231095,
+   "why": "I pick The Obscure for its candlelit presentation of spirit flights in branded glassware beside a parchment menu.",
+   "creator": {
+    "handle": "luz_tejo",
+    "userId": 926980
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/3002a906-8c18-4b9d-9989-8ab1c21e2ac0/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/3002a906-8c18-4b9d-9989-8ab1c21e2ac0/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/701961/California/Los%20Angeles/The%20Obscure",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=The+Obscure+1348+Palmetto+St",
+   "uploaded": "2026-01-12"
+  }
+ ]
+}

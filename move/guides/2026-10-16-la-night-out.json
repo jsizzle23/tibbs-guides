@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-16-la-night-out",
+ "edition": "2026-10-16",
+ "city": "Los Angeles",
+ "citySlug": "los-angeles",
+ "cityShort": "LA",
+ "theme": "This weekend",
+ "option": {
+  "n": 2,
+  "label": "A night out",
+  "slug": "night-out"
+ },
+ "title": "A Night Out in Los Angeles",
+ "intro": "Three picks for a night out in Los Angeles, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 843116,
+   "venueId": 3150047,
+   "venue": "Broken Spirits",
+   "address": "549 S Anaheim Blvd",
+   "lat": 33.829315,
+   "lon": -117.912175,
+   "why": "Broken Spirits works for a moody night over cocktails and food, with candlelit stairs and a decorated interior giving the outing a theatrical edge.",
+   "creator": {
+    "handle": "ValleyGerl",
+    "userId": 80994
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/dd829c87-9868-447f-a48f-7b4aec80646a/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/dd829c87-9868-447f-a48f-7b4aec80646a/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/843116/California/Los%20Angeles/Broken%20Spirits",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Broken+Spirits+549+S+Anaheim+Blvd",
+   "uploaded": "2026-09-15"
+  },
+  {
+   "rank": 2,
+   "fileId": 815425,
+   "venueId": 3483454,
+   "venue": "Sam First Bar",
+   "address": "6171 W Century Blvd",
+   "lat": 33.94583819,
+   "lon": -118.39353752,
+   "why": "I'd go to Sam First Bar when the plan is live jazz, as the sleek bar and close seating keep the vocalist, band, and audience in one intimate room.",
+   "creator": {
+    "handle": "plateswithpatrice",
+    "userId": 65263
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/f0801201-bc82-492c-8d46-5e368909a066/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/f0801201-bc82-492c-8d46-5e368909a066/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/815425/California/Los%20Angeles/Sam%20First%20Bar",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Sam+First+Bar+6171+W+Century+Blvd",
+   "uploaded": "2026-07-10"
+  },
+  {
+   "rank": 3,
+   "fileId": 804072,
+   "venueId": 62891636,
+   "venue": "Stages Bar",
+   "address": "604 E Dyer Rd",
+   "lat": 33.70837719,
+   "lon": -117.85954326,
+   "why": "Stages Bar fits an active group night, with partner swing dancing, neon light, and a crowded floor that puts movement at the center.",
+   "creator": {
+    "handle": "bayla.travels",
+    "userId": 312735
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/9dc77690-40d2-4bad-8909-feb9b9f6fd6b/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/9dc77690-40d2-4bad-8909-feb9b9f6fd6b/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/804072/California/Los%20Angeles/Stages%20Bar",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Stages+Bar+604+E+Dyer+Rd",
+   "uploaded": "2026-06-01"
+  }
+ ]
+}

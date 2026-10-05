@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-16-nyc-night-out",
+ "edition": "2026-10-16",
+ "city": "New York",
+ "citySlug": "new-york",
+ "cityShort": "NYC",
+ "theme": "This weekend",
+ "option": {
+  "n": 2,
+  "label": "A night out",
+  "slug": "night-out"
+ },
+ "title": "A Night Out in New York",
+ "intro": "Three picks for a night out in New York, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 841454,
+   "venueId": 641837,
+   "venue": "SILO",
+   "address": "90 Scott Ave",
+   "lat": 40.71066772,
+   "lon": -73.92278867,
+   "why": "SILO is my pick for dancing with a crowd as a DJ plays beneath glowing neon hands in a nightclub washed in blue light.",
+   "creator": {
+    "handle": "loki1",
+    "userId": 1011652
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/8be4b4e2-d9f9-4990-9f38-a932b561b6c8/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/8be4b4e2-d9f9-4990-9f38-a932b561b6c8/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/841454/New%20York/New%20York/SILO",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=SILO+90+Scott+Ave",
+   "uploaded": "2026-09-13"
+  },
+  {
+   "rank": 2,
+   "fileId": 816148,
+   "venueId": 1000517,
+   "venue": "Overstory",
+   "address": "70 Pine St",
+   "lat": 40.706431,
+   "lon": -74.007634,
+   "why": "I'd head to Overstory for cocktails inside or on its high-altitude wrap-around terrace, with panoramic New York skyline views after dark.",
+   "creator": {
+    "handle": "PerryTrails",
+    "userId": 416897
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/471371e3-4613-4c1c-a658-b0b0457b7452/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/471371e3-4613-4c1c-a658-b0b0457b7452/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/816148/New%20York/New%20York/Overstory",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Overstory+70+Pine+St",
+   "uploaded": "2026-07-24"
+  },
+  {
+   "rank": 3,
+   "fileId": 848820,
+   "venueId": 189888,
+   "venue": "Spyglass Rooftop Bar",
+   "address": "47 W 38th St",
+   "lat": 40.75199799,
+   "lon": -73.98484816,
+   "why": "Spyglass Rooftop Bar is a straightforward dusk stop: an outdoor terrace with seated guests and a clear view of the illuminated Empire State Building.",
+   "creator": {
+    "handle": "mitchzvny",
+    "userId": 1015031
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/c8138253-697b-4096-85da-192abe0b6237/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/c8138253-697b-4096-85da-192abe0b6237/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/848820/New%20York/New%20York/Spyglass%20Rooftop%20Bar",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Spyglass+Rooftop+Bar+47+W+38th+St",
+   "uploaded": "2026-08-19"
+  }
+ ]
+}

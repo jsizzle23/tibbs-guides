@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-16-la-unexpected",
+ "edition": "2026-10-16",
+ "city": "Los Angeles",
+ "citySlug": "los-angeles",
+ "cityShort": "LA",
+ "theme": "This weekend",
+ "option": {
+  "n": 3,
+  "label": "Something unexpected",
+  "slug": "unexpected"
+ },
+ "title": "Something Unexpected in Los Angeles",
+ "intro": "Three picks for something unexpected in Los Angeles, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 840060,
+   "venueId": 32504484,
+   "venue": "Lucas Museum Of Narrative Art",
+   "address": "3800 S Vermont Ave",
+   "lat": 34.01676401,
+   "lon": -118.2912888,
+   "why": "I like the Lucas Museum of Narrative Art for its futuristic architecture and mix of pop art, movie memorabilia, costumes, and recognizable props.",
+   "creator": {
+    "handle": "DiiiiAMOND",
+    "userId": 10258
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/3f86c533-fce4-4465-9aea-fdf529c26ba8/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/3f86c533-fce4-4465-9aea-fdf529c26ba8/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/840060/California/Los%20Angeles/Lucas%20Museum%20Of%20Narrative%20Art",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Lucas+Museum+Of+Narrative+Art+3800+S+Vermont+Ave",
+   "uploaded": "2026-09-11"
+  },
+  {
+   "rank": 2,
+   "fileId": 823036,
+   "venueId": 3839543,
+   "venue": "Cosm 1252 District Dr, Inglewood, CA 90305",
+   "address": "1252",
+   "lat": 33.9472432,
+   "lon": -118.3405422,
+   "why": "Cosm turns a screening into a room-scale experience, with imagery extending across a futuristic dome while the audience settles in at tables.",
+   "creator": {
+    "handle": "fabilinda17",
+    "userId": 732076
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/64bda374-f5f9-41e6-b9a5-60707ea9a5f8/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/64bda374-f5f9-41e6-b9a5-60707ea9a5f8/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/823036/California/Los%20Angeles/Cosm%201252%20District%20Dr%2C%20Inglewood%2C%20CA%2090305",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Cosm+1252+District+Dr%2C+Inglewood%2C+CA+90305+1252",
+   "uploaded": "2026-06-05"
+  },
+  {
+   "rank": 3,
+   "fileId": 740053,
+   "venueId": 205012,
+   "venue": "The Broad",
+   "address": "221 S Grand Ave",
+   "lat": 34.054412,
+   "lon": -118.250539,
+   "why": "The Broad stands apart through Yayoi Kusama's mirrored installation, where a grid of LED lights shifts through green, red, amber, and blue.",
+   "creator": {
+    "handle": "madison.munchies",
+    "userId": 1355
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/bde5febb-5879-4331-a753-f3a0528f337b/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/bde5febb-5879-4331-a753-f3a0528f337b/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/740053/California/Los%20Angeles/The%20Broad",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=The+Broad+221+S+Grand+Ave",
+   "uploaded": "2026-03-06"
+  }
+ ]
+}

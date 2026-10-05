@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-09-la-night-out",
+ "edition": "2026-10-09",
+ "city": "Los Angeles",
+ "citySlug": "los-angeles",
+ "cityShort": "LA",
+ "theme": "This weekend",
+ "option": {
+  "n": 2,
+  "label": "A night out",
+  "slug": "night-out"
+ },
+ "title": "A Night Out in Los Angeles",
+ "intro": "Three picks for a night out in Los Angeles, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 720042,
+   "venueId": 2617103,
+   "venue": "La Mirage Night Club",
+   "address": "17104 Pioneer Blvd",
+   "lat": 33.87566103,
+   "lon": -118.0818046,
+   "why": "I pick La Mirage Night Club when the goal is dancing and singing along in a packed crowd beneath a large disco ball and flashing lights.",
+   "creator": {
+    "handle": "leodawiz",
+    "userId": 939353
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/417e50f5-380b-4626-be84-5eee5c03d710/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/417e50f5-380b-4626-be84-5eee5c03d710/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/720042/California/Los%20Angeles/La%20Mirage%20Night%20Club",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=La+Mirage+Night+Club+17104+Pioneer+Blvd",
+   "uploaded": "2025-09-01"
+  },
+  {
+   "rank": 2,
+   "fileId": 646201,
+   "venueId": 2010983,
+   "venue": "Frogtown Brewery",
+   "address": "2931 Gilroy St",
+   "lat": 34.10701032,
+   "lon": -118.2511716,
+   "why": "Frogtown Brewery suits a drinks-and-live-music night, with a band onstage and a crowd engaged directly with the singer.",
+   "creator": {
+    "handle": "endlessariana",
+    "userId": 82312
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/009c5a95-bc0f-4401-addf-c4115cf9341c/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/009c5a95-bc0f-4401-addf-c4115cf9341c/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/646201/California/Los%20Angeles/Frogtown%20Brewery",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Frogtown+Brewery+2931+Gilroy+St",
+   "uploaded": "2025-10-05"
+  },
+  {
+   "rank": 3,
+   "fileId": 613117,
+   "venueId": 1567139,
+   "venue": "Little Joy Cocktails",
+   "address": "1477 W Sunset Blvd",
+   "lat": 34.07575644,
+   "lon": -118.25440149,
+   "why": "I like Little Joy Cocktails for friends who want a busy bar and dance floor, colorful club lights, music, and a wall projection.",
+   "creator": {
+    "handle": "isabellaswanderlust",
+    "userId": 42011
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/aa4c6ab4-99cc-49cf-b72d-e615c220dd9f/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/aa4c6ab4-99cc-49cf-b72d-e615c220dd9f/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/613117/California/Los%20Angeles/Little%20Joy%20Cocktails",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Little+Joy+Cocktails+1477+W+Sunset+Blvd",
+   "uploaded": "2025-07-06"
+  }
+ ]
+}

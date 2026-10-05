@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-09-nyc-unexpected",
+ "edition": "2026-10-09",
+ "city": "New York",
+ "citySlug": "new-york",
+ "cityShort": "NYC",
+ "theme": "This weekend",
+ "option": {
+  "n": 3,
+  "label": "Something unexpected",
+  "slug": "unexpected"
+ },
+ "title": "Something Unexpected: New York",
+ "intro": "Three picks for something unexpected in New York, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 660976,
+   "venueId": 753675,
+   "venue": "Artechouse",
+   "address": "439 W 15th St",
+   "lat": 40.742433,
+   "lon": -74.006533,
+   "why": "I'd visit Artechouse to walk through shifting digital projections across the walls and floor, with benches for taking in the full space.",
+   "creator": {
+    "handle": "ctny",
+    "userId": 1487
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/fd5084e3-b93b-43c7-b1a4-3c83eacb341a/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/fd5084e3-b93b-43c7-b1a4-3c83eacb341a/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/660976/New%20York/New%20York/Artechouse",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Artechouse+439+W+15th+St",
+   "uploaded": "2025-09-01"
+  },
+  {
+   "rank": 2,
+   "fileId": 592116,
+   "venueId": 295639,
+   "venue": "Genesis House",
+   "address": "40 10th Ave",
+   "lat": 40.741636,
+   "lon": -74.00844,
+   "why": "I'd choose Genesis House for an immersive room where golden light trails and particles surround indoor trees across the walls, ceiling, and floor.",
+   "creator": {
+    "handle": "tanyasfoodinsta",
+    "userId": 133749
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/a5c82bc0-44aa-41ba-b966-39269f4d0d76/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/a5c82bc0-44aa-41ba-b966-39269f4d0d76/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/592116/New%20York/New%20York/Genesis%20House",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Genesis+House+40+10th+Ave",
+   "uploaded": "2025-05-21"
+  },
+  {
+   "rank": 3,
+   "fileId": 611661,
+   "venueId": 607880,
+   "venue": "INTER NYC",
+   "address": "415 Broadway",
+   "lat": 40.7194384,
+   "lon": -74.0023269,
+   "why": "I'd try INTER NYC for a hands-on art stop where people interact with kaleidoscopic digital projections displayed across a curved wall.",
+   "creator": {
+    "handle": "msmommiethefoodie",
+    "userId": 11531
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/f1e8f795-c32e-4524-a95a-4d2d2216e4e2/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/f1e8f795-c32e-4524-a95a-4d2d2216e4e2/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/611661/New%20York/New%20York/INTER%20NYC",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=INTER+NYC+415+Broadway&query_place_id=ChIJdfmydhBZwokRKgBNzQVU-mk",
+   "uploaded": "2025-06-29"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-16-la-dinner",
+ "edition": "2026-10-16",
+ "city": "Los Angeles",
+ "citySlug": "los-angeles",
+ "cityShort": "LA",
+ "theme": "This weekend",
+ "option": {
+  "n": 1,
+  "label": "A great dinner",
+  "slug": "dinner"
+ },
+ "title": "A Great Dinner in Los Angeles",
+ "intro": "Three picks for a great dinner in Los Angeles, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 838250,
+   "venueId": 140556773,
+   "venue": "Cento Raw Bar",
+   "address": "4919 1/2 West Adams",
+   "lat": 34.032677,
+   "lon": -118.347531,
+   "why": "I'd pick Cento Raw Bar for its textured dining bar, where cocktails, fresh crudo, a seafood tower, and pasta make dinner feel varied.",
+   "creator": {
+    "handle": "adventureswithchass",
+    "userId": 51962
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/7c870635-2bf8-4853-899e-c0f16d7a26ed/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/7c870635-2bf8-4853-899e-c0f16d7a26ed/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/838250/California/Los%20Angeles/Cento%20Raw%20Bar",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Cento+Raw+Bar+4919+1%2F2+West+Adams",
+   "uploaded": "2026-09-07"
+  },
+  {
+   "rank": 2,
+   "fileId": 843975,
+   "venueId": 145534668,
+   "venue": "Heritage",
+   "address": "2030 E Seventh St",
+   "lat": 33.77517995,
+   "lon": -118.16680281,
+   "why": "Heritage suits a composed dinner, with finely plated small bites and seared sliced duck breast in sauce set against a wooden table.",
+   "creator": {
+    "handle": "chowdough",
+    "userId": 6971
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/40088a39-cf81-4688-97d0-cc1180b787dd/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/40088a39-cf81-4688-97d0-cc1180b787dd/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/843975/California/Los%20Angeles/Heritage",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Heritage+2030+E+Seventh+St",
+   "uploaded": "2026-09-19"
+  },
+  {
+   "rank": 3,
+   "fileId": 800801,
+   "venueId": 100176,
+   "venue": "Majordomo",
+   "address": "1725 Naud St",
+   "lat": 34.06916557,
+   "lon": -118.22614241,
+   "why": "I'd choose Majordomo with friends for the table-side hot pot, where broth transforms crispy mushroom rice beside fish and sliced meat.",
+   "creator": {
+    "handle": "i_therefore_conclude",
+    "userId": 2144
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/95ec2f99-f05e-4491-a7e4-8751eb6b0634/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/95ec2f99-f05e-4491-a7e4-8751eb6b0634/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/800801/California/Los%20Angeles/Majordomo",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Majordomo+1725+Naud+St",
+   "uploaded": "2026-06-27"
+  }
+ ]
+}

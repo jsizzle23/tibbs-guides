@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-09-la-dinner",
+ "edition": "2026-10-09",
+ "city": "Los Angeles",
+ "citySlug": "los-angeles",
+ "cityShort": "LA",
+ "theme": "This weekend",
+ "option": {
+  "n": 1,
+  "label": "A great dinner",
+  "slug": "dinner"
+ },
+ "title": "A Great Dinner in Los Angeles",
+ "intro": "Three picks for a great dinner in Los Angeles, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 659052,
+   "venueId": 140544278,
+   "venue": "Nigel's",
+   "address": "6276 E Pacific Coast Hwy",
+   "lat": 33.760653,
+   "lon": -118.1138702,
+   "why": "I like Nigel's for a waterfront dinner where pink decor, sunset views, cocktails, and docked dining boats make the setting stand apart.",
+   "creator": {
+    "handle": "DiiiiAMOND",
+    "userId": 10258
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/a74ce84d-039d-42e2-985a-661729daaf74/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/a74ce84d-039d-42e2-985a-661729daaf74/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/659052/California/Los%20Angeles/Nigel%27s",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Nigel%27s+6276+E+Pacific+Coast+Hwy",
+   "uploaded": "2025-11-05"
+  },
+  {
+   "rank": 2,
+   "fileId": 600114,
+   "venueId": 211807,
+   "venue": "Tao",
+   "address": "6421 Selma Ave",
+   "lat": 34.09991824,
+   "lon": -118.33047967,
+   "why": "I pick Tao for a dimly lit dinner with friends, where noodles, meat entrees, and omelet-wrapped fried rice give the table range.",
+   "creator": {
+    "handle": "isayyummy",
+    "userId": 3248
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/093f6748-ddcb-4aca-a3c8-b4219abd7645/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/093f6748-ddcb-4aca-a3c8-b4219abd7645/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/600114/California/Los%20Angeles/Tao",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Tao+6421+Selma+Ave",
+   "uploaded": "2025-06-08"
+  },
+  {
+   "rank": 3,
+   "fileId": 735346,
+   "venueId": 140558788,
+   "venue": "Maison Kasai",
+   "address": "1254 S Figueroa St fl 8",
+   "lat": 34.0409276,
+   "lon": -118.2674766,
+   "why": "I'd plan Maison Kasai for an interactive, upscale teppanyaki dinner built around prawns, truffle risotto, grilled steak, and dessert.",
+   "creator": {
+    "handle": "Food.E",
+    "userId": 4136
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/d6635dcc-aa27-4439-9d4a-dcccbe442e42/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/d6635dcc-aa27-4439-9d4a-dcccbe442e42/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/735346/California/Los%20Angeles/Maison%20Kasai",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Maison+Kasai+1254+S+Figueroa+St+fl+8",
+   "uploaded": "2026-03-16"
+  }
+ ]
+}

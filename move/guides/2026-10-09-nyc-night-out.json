@@ -1,0 +1,78 @@
+{
+ "schemaVersion": 1,
+ "guideId": "2026-10-09-nyc-night-out",
+ "edition": "2026-10-09",
+ "city": "New York",
+ "citySlug": "new-york",
+ "cityShort": "NYC",
+ "theme": "This weekend",
+ "option": {
+  "n": 2,
+  "label": "A night out",
+  "slug": "night-out"
+ },
+ "title": "A Night Out: New York",
+ "intro": "Three picks for a night out in New York, from videos local creators filmed.",
+ "draft": true,
+ "publishedAt": null,
+ "joinSms": "sms:+16282299040?&body=MOVE",
+ "picks": [
+  {
+   "rank": 1,
+   "fileId": 660050,
+   "venueId": 1289482,
+   "venue": "Etiquette at Sony Hall NYC",
+   "address": "235 W 46th St",
+   "lat": 40.75960264,
+   "lon": -73.98698095,
+   "why": "I'd go to Etiquette at Sony Hall NYC for a packed dance floor, a DJ, purple lighting, and a disco ball beneath an ornate ceiling.",
+   "creator": {
+    "handle": "juliabollengier",
+    "userId": 82627
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/1c2f4a9c-a6fc-4989-9973-a5a3b07a28ca/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/1c2f4a9c-a6fc-4989-9973-a5a3b07a28ca/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/660050/New%20York/New%20York/Etiquette%20at%20Sony%20Hall%20NYC",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Etiquette+at+Sony+Hall+NYC+235+W+46th+St",
+   "uploaded": "2025-11-02"
+  },
+  {
+   "rank": 2,
+   "fileId": 782599,
+   "venueId": 1673909,
+   "venue": "elNico",
+   "address": "288 N 8th St",
+   "lat": 40.715486,
+   "lon": -73.952977,
+   "why": "I'd choose elNico for comfortable outdoor seating, drinks, and a rooftop view of the city skyline set against a vibrant sunset.",
+   "creator": {
+    "handle": "eatingwithetienne",
+    "userId": 13685
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/b727003e-d187-4996-be68-e7adb4a26fed/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/b727003e-d187-4996-be68-e7adb4a26fed/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/782599/New%20York/New%20York/elNico",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=elNico+288+N+8th+St",
+   "uploaded": "2026-05-19"
+  },
+  {
+   "rank": 3,
+   "fileId": 642449,
+   "venueId": 249528,
+   "venue": "Knockdown Center",
+   "address": "5219 Flushing Ave",
+   "lat": 40.715639,
+   "lon": -73.914248,
+   "why": "I'd head to Knockdown Center for a large, cheering crowd dancing beneath a giant disco ball while a DJ performs from the booth.",
+   "creator": {
+    "handle": "Kenluch",
+    "userId": 1620
+   },
+   "videoUrl": "https://videos-b.atmosfy.io/bc1131f5-fb17-45df-bad9-a91db7e659be/play_720p.mp4",
+   "posterUrl": "https://videos-b.atmosfy.io/bc1131f5-fb17-45df-bad9-a91db7e659be/thumbnail.jpg",
+   "listingUrl": "https://atmosfy.io/listing/642449/New%20York/New%20York/Knockdown%20Center",
+   "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Knockdown+Center+5219+Flushing+Ave",
+   "uploaded": "2025-08-31"
+  }
+ ]
+}
